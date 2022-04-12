@@ -1,5 +1,8 @@
+#  tag_23 dan tag_24 
+pertenyataan dan tugas
+membuat script melakukan validasi pada isian form.
+
 # Lab5Web
-Readme praktikum k5 pertemuan ke 6
 # tag_1
 membuat dokumen HTML dengan nama file lab5_javascript.html
 # tag_2
